@@ -1,0 +1,74 @@
+D:\برامج\Pirson\Pirson\bin\Debug\Pirson.exe.config
+D:\برامج\Pirson\Pirson\bin\Debug\Pirson.exe
+D:\برامج\Pirson\Pirson\bin\Debug\Pirson.pdb
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.csprojResolveAssemblyReference.cache
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Form1.resources
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Form2.resources
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Form3.resources
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Properties.Resources.resources
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.csproj.GenerateResource.Cache
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.exe
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.pdb
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Form4.resources
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Form5.resources
+D:\برامج\Pirson\Pirson\obj\Debug\Pirson.Form6.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\bin\Debug\Pirson.exe.config
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.exe
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.pdb
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\bin\Debug\Pirson.exe
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\bin\Debug\Pirson.pdb
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form1.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form2.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form3.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form4.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form5.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form6.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.Properties.Resources.resources
+C:\Users\user\Desktop\عبدالرحمن الساده\Pirson\Pirson\Pirson\obj\Debug\Pirson.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\bin\Debug\Pirson.exe.config
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.exe
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.pdb
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\bin\Debug\Pirson.exe
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\bin\Debug\Pirson.pdb
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form1.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form2.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form3.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form4.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form5.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form6.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Properties.Resources.resources
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\مروه وجيه الدين\Pirson2\Pirson\Pirson\Pirson\obj\Debug\Pirson.Form7.resources
+C:\Users\user\Desktop\Pirson\Pirson\bin\Debug\Pirson.exe.config
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.exe
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.pdb
+C:\Users\user\Desktop\Pirson\Pirson\bin\Debug\Pirson.exe
+C:\Users\user\Desktop\Pirson\Pirson\bin\Debug\Pirson.pdb
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form1.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form2.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form3.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form4.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form5.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form6.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Form7.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.Properties.Resources.resources
+C:\Users\user\Desktop\Pirson\Pirson\obj\Debug\Pirson.csproj.GenerateResource.Cache
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\bin\Debug\Pirson.exe.config
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\bin\Debug\Pirson.exe
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\bin\Debug\Pirson.pdb
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.csprojAssemblyReference.cache
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form1.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form2.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form3.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form4.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form5.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form6.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Form7.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.Properties.Resources.resources
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.csproj.GenerateResource.cache
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.csproj.CoreCompileInputs.cache
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.exe
+E:\TEMP_FILE\مشروع ادارة سجن\Pirson\Pirson\obj\Debug\Pirson.pdb
